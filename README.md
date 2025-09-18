@@ -25,13 +25,4 @@ You can `CTRL+click` the link and browse through my articles.
 ![VsCode](https://img.shields.io/badge/-VS%20Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/-Wordpress-black?style=for-the-badge&logo=wordpress)
 
-## 📟 GitHub Stats
-
-  <br/>
-    <a href="https://github.com/pragyaasapkota/github-readme-stats"><img alt="Pragya Sapkota's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pragyaasapkota&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/pragyaasapkota/github-readme-stats"><img alt="Pragya Sapkota's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pragyaasapkota&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-
 ### Don't forget to check the Repositories and give a star🤝.       
